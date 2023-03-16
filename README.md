@@ -31,7 +31,7 @@ Desde de2020, o Banco Central do Brasil vem trabalhando para estabelecer  uma no
 
 - ## PRODUCT BACKLOG <a name="backlog"></a>
 
-- ## Sprint Backlog <a name="sprintBacklog"></a>
+
 
 
 <br>
