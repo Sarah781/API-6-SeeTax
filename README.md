@@ -5,6 +5,7 @@
 - - [Disciplinas Integradas ao Projeto](#disciplinas)
 - - [Objetivo](#objetivo)
 - - [Desafio](#desafio)
+- - [Proposta de Entrega](#proposta)
 - [Documentação](#documentacao)
 - - [Product Backlog](#backlog)
 - [Cronograma](#cronograma)
@@ -24,6 +25,8 @@ Sistema para acompanhamento de serviços utilizando Análise de Dados com perfis
 
 ## ⏱️ Desafio <a name="desafio"></a>
 Desde de2020, o Banco Central do Brasil vem trabalhando para estabelecer  uma nova forma de intercomunicação entre bancos, empresas e clientes; a plataforma batizada de Open Finance Brasil.Tradicionalmente,   os   bancos   sempre   foram   enormes   caixas-fortes   quando   se   tratam   do armazenamento dos dados de  seus clientes e, agora, há um novo paradigma que  gerará infinitas possibilidades de integrações e criação de novos produtos e serviços.Como forma de analisar os valores cobrados por diversos serviços entre os participantes do Open Finance, temos o desafio de apresentar de forma intuitiva e fluida, uma ferramenta de comparação de preços utilizando os dados fornecido através do Open Finance.
+
+## 📌Proposta de Entrega <a name="proposta"></a>
 
 
 # 📂 Documentação <a name="documentacao"></a>
