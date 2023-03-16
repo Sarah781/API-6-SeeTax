@@ -29,7 +29,7 @@ Desde de2020, o Banco Central do Brasil vem trabalhando para estabelecer  uma no
 ## 📌Proposta de Entrega <a name="proposta"></a>
 Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do Open Finance
 
-<p>Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas que utiliza os dados fornecidos pelo Open Finance. Nós utilizaremos as informações fornecidas pelo Open Finance para criar uma base de dados que armazene informações sobre as tarifas dos serviços financeiros. 
+<p>Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas que utiliza os dados fornecidos pelo Open Finance. Nós utilizaremos as informações fornecidas pelo Open Finance para criar uma base de dados que armazene informações sobre as tarifas dos serviços financeiros. Iremos desenvolver um dashboard de rankings: Banco com menores, maiores tarifas; Linha do tempo da média de uma tarifa com tendência; Top 5 bancos com menores tarifas ao longo de um período; Desenvolver um comparador de preços de tarifas: Produtos/Serviços, Bancos, Moeda, e também no comparador, apresentar a instituição e oferecer o menor custo para os Produtos/Serviços selecionados.
 </p>
 
 # 📂 Documentação <a name="documentacao"></a>
