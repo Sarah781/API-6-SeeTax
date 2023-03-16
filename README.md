@@ -27,7 +27,10 @@ Sistema para acompanhamento de serviços utilizando Análise de Dados com perfis
 Desde de2020, o Banco Central do Brasil vem trabalhando para estabelecer  uma nova forma de intercomunicação entre bancos, empresas e clientes; a plataforma batizada de Open Finance Brasil.Tradicionalmente,   os   bancos   sempre   foram   enormes   caixas-fortes   quando   se   tratam   do armazenamento dos dados de  seus clientes e, agora, há um novo paradigma que  gerará infinitas possibilidades de integrações e criação de novos produtos e serviços.Como forma de analisar os valores cobrados por diversos serviços entre os participantes do Open Finance, temos o desafio de apresentar de forma intuitiva e fluida, uma ferramenta de comparação de preços utilizando os dados fornecido através do Open Finance.
 
 ## 📌Proposta de Entrega <a name="proposta"></a>
+Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do Open Finance
 
+<p>Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas que utiliza os dados fornecidos pelo Open Finance. Nós utilizaremos as informações fornecidas pelo Open Finance para criar uma base de dados que armazene informações sobre as tarifas dos serviços financeiros. 
+</p>
 
 # 📂 Documentação <a name="documentacao"></a>
 
