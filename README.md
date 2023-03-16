@@ -7,13 +7,12 @@
 - - [Desafio](#desafio)
 - [Documentação](#documentacao)
 - - [Product Backlog](#backlog)
-- - [Sprint Backlog](#sprintBacklog)
 - [Cronograma](#cronograma)
 - [Tecnologias](#tecnologias)
 - [Integrantes da Equipe](#integrantes)
 # Introdução <a name="introducao"></a>
 
-Projeto desenvolvido por alunos do sexto semestre do curso de `Análise e Desenvolvimento de Sistemas` da <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>, em São José dos Campos - SP, durante o segundo semestre do ano de 2022.
+Projeto desenvolvido por alunos do sexto semestre do curso de `Análise e Desenvolvimento de Sistemas` da <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>, em São José dos Campos - SP, durante o primeiro semestre do ano de 2023.
 ## 🎓 Disciplinas Integradas ao Projeto <a name="disciplinas"></a>
 - Inteligência Artificial;
 - Tópicos Especiais em informática;
@@ -30,7 +29,6 @@ Desde de2020, o Banco Central do Brasil vem trabalhando para estabelecer  uma no
 # 📂 Documentação <a name="documentacao"></a>
 
 - ## PRODUCT BACKLOG <a name="backlog"></a>
-
 
 
 
