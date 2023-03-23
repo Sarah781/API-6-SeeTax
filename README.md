@@ -34,7 +34,7 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 
 # 📂 Documentação <a name="documentacao"></a>
 
-- ## PRODUCT BACKLOG <a name="backlog"></a>
+## PRODUCT BACKLOG <a name="backlog"></a>
 
 
 
@@ -64,7 +64,14 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 
 - [![](https://img.shields.io/badge/%20-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-    Utilizado para prototipagem da aplicação
+    Utilizado para prototipagem da pagina Web.
+    
+-[![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+    
+    Utilizado para o Frontend da página.
+    
+-[![]( )]( )
+    
     
 # 👩‍💻 Integrantes da Equipe 👨‍💻 <a name="integrantes"></a>
 
