@@ -34,7 +34,7 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 
 # 📂 Documentação <a name="documentacao"></a>
 
-## PRODUCT BACKLOG <a name="backlog"></a>
+## Product Backlog <a name="backlog"></a>
 
 
 
@@ -62,11 +62,15 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 
     Utilizado para prototipagem da pagina Web.
     
+    
 - [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
     
     Utilizado para o Frontend da página.
     
+    
 - [![](https://img.shields.io/badge/%20-Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)](https://www.java.com/pt-BR/)
+
+- [![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
 
     Utilizado para o Backend da página.
     
@@ -75,7 +79,7 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 
 [<img src="https://avatars.githubusercontent.com/u/68746678?v=4" width=115><br><sub> Leonardo Ribeiro <a href="https://github.com/Leo0256"></a><br><a href="https://www.linkedin.com/in/leonardo-gustavo-ribeiro-ba23831b6">Product Owner</a><br></sub>](https://github.com/Leo0256) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Leo0256 "Product Owner") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/leonardo-gustavo-ribeiro-ba23831b6 "LinkedIn") | [<img src="https://avatars.githubusercontent.com/u/73767256?v=4" width=115><br><sub> Rita Ferreira <br><a href="https://www.linkedin.com/in/rita-ferreira-894ba1200">Scrum Master</a><br></sub>](https://github.com/ferreirarita) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/ferreirarita "Scrum Master") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/rita-ferreira-894ba1200 "LinkedIn") | [<img src="https://avatars.githubusercontent.com/u/72801105?v=4" width=115><br><sub> Sarah Santana <br><a href="https://www.linkedin.com/in/sarah-santana-843394200">Dev Team</a> <br></sub>](https://github.com/Sarah781) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Sarah781 "Dev Team") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/sarah-santana-843394200 "LinkedIn") | [<img src="https://avatars.githubusercontent.com/u/70578728?v=4" width=115 ><br><sub> Jonathan Gabriel<br><a href="https://www.linkedin.com/in/jonathan-gabriel-">Dev Team</a><br> </sub>](https://github.com/Jonathan-Assis) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Jonathan-Assis "Dev Team") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/jonathan-gabriel- "LinkedIn") | 
 | :---: | :---: | :---: | :---: | 
-[<img src="https://avatars.githubusercontent.com/u/70578084?v=4" width=115><br><sub> Matheus Emboaba <br><a href="https://www.linkedin.com/in/matheus-emboaba-a21970236">Dev Team</a><br></sub>](https://github.com/MatheusEmboabaTeteu) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/MatheusEmboabaTeteu "Dev Team") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/matheus-emboaba-a21970236 "LinkedIn") | [<img src="https://avatars.githubusercontent.com/u/51235779?v=4" width=115><br><sub> Raul Iglesias <br><a href="https://linkedin.com/in/raul-iglesias-8010201a1">Dev Team</a><br></sub>](https://github.com/RaulIglesias) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/RaulIglesias "Dev Team") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://linkedin.com/in/raul-iglesias-8010201a1 "LinkedIn") |
+[<img src="https://avatars.githubusercontent.com/u/51235779?v=4" width=115><br><sub> Raul Iglesias <br><a href="https://linkedin.com/in/raul-iglesias-8010201a1">Dev Team</a><br></sub>](https://github.com/RaulIglesias) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/RaulIglesias "Dev Team") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://linkedin.com/in/raul-iglesias-8010201a1 "LinkedIn") |[<img src="https://avatars.githubusercontent.com/u/70578084?v=4" width=115><br><sub> Matheus Emboaba <br><a href="https://www.linkedin.com/in/matheus-emboaba-a21970236">Dev Team</a><br></sub>](https://github.com/MatheusEmboabaTeteu) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/MatheusEmboabaTeteu "Dev Team") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/matheus-emboaba-a21970236 "LinkedIn") | 
 
 
 <hr>
