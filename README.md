@@ -66,7 +66,9 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
     
     Utilizado para o Frontend da página.
     
-- [![]( )]( )
+- [![](https://img.shields.io/badge/%20-Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)](https://www.java.com/pt-BR/)
+
+    Utilizado para o Backend da página.
     
     
 # 👩‍💻 Integrantes da Equipe 👨‍💻 <a name="integrantes"></a>
