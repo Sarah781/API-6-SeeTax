@@ -46,7 +46,7 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 
 - [X] [KICK-OFF - 28/02/2023 ]
 
-- [ ] [SPRINT 1 - 13/03/2023 a 02/04/2023]
+- [ ] [SPRINT 1 - 13/03/2023 a 02/04/2023; - ![](https://img.shields.io/badge/📝%20Acessar%20Documentação%20da%20Entrega-7917FF?style=flat-square)](Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%201/)
 
 - [ ] [SPRINT 2 - 03/04/2023 a 23/04/2023]
 
