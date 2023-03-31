@@ -36,7 +36,7 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 
 ## Product Backlog <a name="backlog"></a>
 
-
+<img src='Referências/Imagens/Backlog Total.png' width=100% alt="backlog total">
 
 <br>
 
