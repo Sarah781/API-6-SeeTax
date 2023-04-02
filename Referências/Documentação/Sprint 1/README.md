@@ -19,6 +19,6 @@ O gráfico abaixo representa o desempenho da equipe com base no período de 13/0
 
 - ## 🏷️Projeto 
 
-[![](https://img.shields.io/badge/GitHub%20Sprint%201%20Version-100000?style=for-the-badge&logo=github&logoColor=white)]()
+[![](https://img.shields.io/badge/GitHub%20Sprint%201%20Version-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarah781/API-JPMorgan/releases/tag/v1.0.0)
 
 <hr>
