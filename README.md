@@ -29,7 +29,8 @@ Desde de 2020, o Banco Central do Brasil vem trabalhando para estabelecer  uma n
 ## 📌Proposta de Entrega <a name="proposta"></a>
 Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do Open Finance
 
-<p>Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas que utiliza os dados fornecidos pelo Open Finance. Nós utilizaremos as informações fornecidas pelo Open Finance para criar uma base de dados que armazene informações sobre as tarifas dos serviços financeiros. Iremos desenvolver um dashboard de rankings: Banco com menores, maiores tarifas; Linha do tempo da média de uma tarifa com tendência; Top 5 bancos com menores tarifas ao longo de um período; Desenvolver um comparador de preços de tarifas: Produtos/Serviços, Bancos, Moeda, e também no comparador, apresentar a instituição e oferecer o menor custo para os Produtos/Serviços selecionados.
+<p>
+Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas que utiliza os dados fornecidos pelo Open Finance. Nós utilizaremos as informações fornecidas pelo Open Finance para criar uma base de dados que armazene informações sobre as tarifas dos serviços financeiros. Iremos desenvolver um dashboard de rankings: Banco com menores, maiores tarifas; Linha do tempo da média de uma tarifa com tendência; Top 5 bancos com menores tarifas ao longo de um período; Desenvolver um comparador de preços de tarifas: Produtos/Serviços, Bancos, Moeda, e também no comparador, apresentar a instituição e oferecer o menor custo para os Produtos/Serviços selecionados.
 </p>
 
 # 📂 Documentação <a name="documentacao"></a>
@@ -48,13 +49,13 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
 
 - [X] [SPRINT 1 - 13/03/2023 a 02/04/2023; - ![](https://img.shields.io/badge/📝%20Acessar%20Documentação%20da%20Entrega-7917FF?style=flat-square)](Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%201/)
 
-- [ ] [SPRINT 2 - 03/04/2023 a 23/04/2023]
+- [ ] SPRINT 2 - 03/04/2023 a 23/04/2023
 
-- [ ] [SPRINT 3 - 24/04/2023 a 14/05/2023]
+- [ ] SPRINT 3 - 24/04/2023 a 14/05/2023
 
-- [ ] [SPRINT 4 - 15/05/2023 a 04/06/2023]
+- [ ] SPRINT 4 - 15/05/2023 a 04/06/2023
 
-- [ ] [Feira de Soluções & Apresentação Final - 13/06/2023 e 14/06/2023]
+- [ ] Feira de Soluções & Apresentação Final - 13/06/2023 e 14/06/2023
 
 # 💻 Tecnologias <a name="tecnologias"></a>
 
@@ -68,9 +69,9 @@ Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do O
     Utilizado para o Frontend da página.
     
     
-- [![](https://img.shields.io/badge/%20-Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)](https://www.java.com/pt-BR/)
+- [![](https://img.shields.io/badge/Java-DDDDDD?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
 
-- [![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/)
+- [![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
     Utilizado para o Backend da página.
     
