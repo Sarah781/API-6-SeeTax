@@ -36,8 +36,18 @@ Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas
 # 📂 Documentação <a name="documentacao"></a>
 
 ## Product Backlog <a name="backlog"></a>
+### Sprint 1
 
-<img src='Referências/Imagens/Backlog Total.png' width=100% alt="backlog total">
+<img src='Referências/Imagens/backlog_sprint (1).png' width=100% alt="sprint 1">
+
+### Sprint 2
+<img src='Referências/Imagens/backlog_sprint (2).png' width=100% alt="sprint 2">
+
+### Sprint 3
+<img src='Referências/Imagens/backlog_sprint (3).png' width=100% alt="sprint 3">
+
+### Sprint 4
+<img src='Referências/Imagens/backlog_sprint (4).png' width=100% alt="sprint 4">
 
 <br>
 
