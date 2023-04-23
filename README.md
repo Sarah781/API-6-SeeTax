@@ -49,7 +49,7 @@ Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas
 
 - [X] [SPRINT 1 - 13/03/2023 a 02/04/2023; - ![](https://img.shields.io/badge/📝%20Acessar%20Documentação%20da%20Entrega-7917FF?style=flat-square)](Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%201/)
 
-- [ ] SPRINT 2 - 03/04/2023 a 23/04/2023; - ![](https://img.shields.io/badge/📝%20Acessar%20Documentação%20da%20Entrega-7917FF?style=flat-square)](Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/)
+- [X] [SPRINT 2 - 03/04/2023 a 23/04/2023; - ![](https://img.shields.io/badge/📝%20Acessar%20Documentação%20da%20Entrega-7917FF?style=flat-square)](Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/)
 
 - [ ] SPRINT 3 - 24/04/2023 a 14/05/2023
 
