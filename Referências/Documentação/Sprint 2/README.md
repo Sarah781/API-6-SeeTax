@@ -14,7 +14,7 @@ A imagem abaixo descreve as Users Story do usuário entregues nesta sprint.
 
 O gráfico abaixo representa o desempenho da equipe com base no período de 03/04/2023 à 23/04/2023 na realização das tarefas atribuídas para a entrega.
 
-![](https://user-images.githubusercontent.com/111800315/229386743-7cdad5cc-e676-4530-9925-50f72f7e9900.png)
+![](https://user-images.githubusercontent.com/111800315/233956729-b98679f5-aecd-4643-a2c2-b0493076e10c.png)
 
 - ## ✒️ Wireframe
 
