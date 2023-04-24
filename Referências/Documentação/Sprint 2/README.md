@@ -30,6 +30,6 @@ Os gifs abaixo é o protótipo das telas realizadas para a entrega da sprint.
 
 - ## 🏷️Projeto 
 
-[![](https://img.shields.io/badge/GitHub%20Sprint%201%20Version-100000?style=for-the-badge&logo=github&logoColor=white)]()
+[![](https://img.shields.io/badge/GitHub%20Sprint%201%20Version-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarah781/API-6-SeeTax/releases/tag/v1.1.0)
 
 <hr>
