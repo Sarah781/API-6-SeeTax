@@ -20,7 +20,7 @@ O gráfico abaixo representa o desempenho da equipe com base no período de 03/0
 
 <a href="https://www.figma.com/proto/2iz4Cag4lDaoAkmWGajaoD/SeeTax?node-id=302-988&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=302%3A988&show-proto-sidebar=1&hide-ui=1">Link do Play do protótipo Figma</a>
 
-A imagem abaixo é o protótipo das telas realizadas para a entrega da sprint.
+As imagens abaixo são o protótipo das telas realizadas para a entrega desta sprint.
 <div align='center'>
     <img src='./Imagens/Imagem1.png'>
     <img src='./Imagens/Imagem2.png'>
