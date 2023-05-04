@@ -11,10 +11,11 @@
 - [Schedule](#schedule)
 - [Technologies](#technologies)
 - [Team Members](#members)
-# Introduction <a name="introduction"></a>
+
+# Introduction <a name="intro"></a>
 
 Project developed by students of the sixth semester of the `Systems Analysis and Development` course at <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>, in São José dos Campos - SP, during the first half of 2023.
-## 🎓 Subjects Integrated to the Project <a name="disciplines"></a>
+## 🎓 Disciplines Integrated into the Project <a name="disciplines"></a>
 - Artificial intelligence;
 - Special Topics in Informatics;
 - Team management;
@@ -65,7 +66,7 @@ Our proposal is to develop a tariff comparison tool that uses data provided by O
 
 - [ ] SPRINT 4 - 15/05/2023 a 04/06/2023
 
-- [ ] Feira de Soluções & Apresentação Final - 13/06/2023 e 14/06/2023
+- [ ] Solutions Fair and Final Presentation - 13/06/2023 e 14/06/2023
 
 # 💻 Technologies <a name="technologies"></a>
 
