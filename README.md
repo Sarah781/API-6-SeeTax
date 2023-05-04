@@ -1,39 +1,39 @@
-# Aprendizado por Projeto Integrador
+# Learning by Integrator Project
 
-# Sumário <br id="topo">
-- [Introdução](#introducao)
-- - [Disciplinas Integradas ao Projeto](#disciplinas)
-- - [Objetivo](#objetivo)
-- - [Desafio](#desafio)
-- - [Proposta de Entrega](#proposta)
-- [Documentação](#documentacao)
+# Summary <br id="top">
+- [Introduction](#intro)
+- - [Disciplines Integrated into the Project](#disciplines)
+- - [Objective](#objective)
+- - [Challenge](#challenge)
+- - [Delivery Proposal](#proposal)
+- [Documentation](#documentation)
 - - [Product Backlog](#backlog)
-- [Cronograma](#cronograma)
-- [Tecnologias](#tecnologias)
-- [Integrantes da Equipe](#integrantes)
-# Introdução <a name="introducao"></a>
+- [Schedule](#schedule)
+- [Technologies](#technologies)
+- [Team Members](#members)
+# Introduction <a name="introduction"></a>
 
-Projeto desenvolvido por alunos do sexto semestre do curso de `Análise e Desenvolvimento de Sistemas` da <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>, em São José dos Campos - SP, durante o primeiro semestre do ano de 2023.
-## 🎓 Disciplinas Integradas ao Projeto <a name="disciplinas"></a>
-- Inteligência Artificial;
-- Tópicos Especiais em informática;
-- Gestão de Equipes;
+Project developed by students of the sixth semester of the `Systems Analysis and Development` course at <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>, in São José dos Campos - SP, during the first half of 2023.
+## 🎓 Subjects Integrated to the Project <a name="disciplines"></a>
+- Artificial intelligence;
+- Special Topics in Informatics;
+- Team management;
 
 
-## 🎯 Objetivo <a name="objetivo"></a>
-Sistema para acompanhamento de serviços utilizando Análise de Dados com perfis de usuários bem definidos
+## 🎯 Objective <a name="objective"></a>
+System for monitoring services using Data Analysis with well-defined user profiles
 
-## ⏱️ Desafio <a name="desafio"></a>
-Desde de 2020, o Banco Central do Brasil vem trabalhando para estabelecer  uma nova forma de intercomunicação entre bancos, empresas e clientes; a plataforma batizada de Open Finance Brasil.Tradicionalmente,   os   bancos   sempre   foram   enormes   caixas-fortes   quando   se   tratam   do armazenamento dos dados de  seus clientes e, agora, há um novo paradigma que  gerará infinitas possibilidades de integrações e criação de novos produtos e serviços.Como forma de analisar os valores cobrados por diversos serviços entre os participantes do Open Finance, temos o desafio de apresentar de forma intuitiva e fluida, uma ferramenta de comparação de preços utilizando os dados fornecido através do Open Finance.
+## ⏱️ Challenge <a name="challenge"></a>
+Since 2020, the Central Bank of Brazil has been working to establish a new form of intercommunication between banks, companies and customers; the platform named Open Finance Brasil. Traditionally, banks have always been huge vaults when it comes to storing their customers' data, and now there is a new paradigm that will generate infinite possibilities for integration and the creation of new products and services. As a way of analyzing the amounts charged for various services among Open Finance participants, we have the challenge of presenting, in an intuitive and fluid way, a price comparison tool using the data provided through Open Finance.
 
-## 📌Proposta de Entrega <a name="proposta"></a>
-Proposta de entrega: Ferramenta de Comparação de Tarifas utilizando dados do Open Finance
+## 📌Delivery Proposal <a name="proposal"></a>
+Proposal for delivery: Rate Comparison Tool using Open Finance data
 
 <p>
-Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas que utiliza os dados fornecidos pelo Open Finance. Nós utilizaremos as informações fornecidas pelo Open Finance para criar uma base de dados que armazene informações sobre as tarifas dos serviços financeiros. Iremos desenvolver um dashboard de rankings: Banco com menores, maiores tarifas; Linha do tempo da média de uma tarifa com tendência; Top 5 bancos com menores tarifas ao longo de um período; Desenvolver um comparador de preços de tarifas: Produtos/Serviços, Bancos, Moeda, e também no comparador, apresentar a instituição e oferecer o menor custo para os Produtos/Serviços selecionados.
+Our proposal is to develop a tariff comparison tool that uses data provided by Open Finance. We will use the information provided by Open Finance to create a database that stores information about fees for financial services. We will develop a rankings dashboard: Bank with lowest, highest rates; Timeline of the average of a tariff with trend; Top 5 banks with lowest fees over a period; Develop a tariff price comparator: Products/Services, Banks, Currency, and also in the comparator, present the institution and offer the lowest cost for the selected Products/Services.
 </p>
 
-# 📂 Documentação <a name="documentacao"></a>
+# 📂 Documentation <a name="documentation"></a>
 
 ## Product Backlog <a name="backlog"></a>
 ### Sprint 1
@@ -51,9 +51,9 @@ Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas
 
 <br>
 
-# 📅 Cronograma de Entregas <a name="cronograma"></a>
+# 📅 Schedule <a name="schedule"></a>
 
-> Datas definidas sobre as entregas das sprints.
+> Defined dates on sprint deliveries.
 
 - [X] [KICK-OFF - 28/02/2023 ]
 
@@ -67,26 +67,26 @@ Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas
 
 - [ ] Feira de Soluções & Apresentação Final - 13/06/2023 e 14/06/2023
 
-# 💻 Tecnologias <a name="tecnologias"></a>
+# 💻 Technologies <a name="technologies"></a>
 
 - [![](https://img.shields.io/badge/%20-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-    Utilizado para prototipagem da pagina Web.
+    Used for web page prototyping.
     
     
 - [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
     
-    Utilizado para o Frontend da página.
+    Used for the Frontend of the page.
     
     
 - [![](https://img.shields.io/badge/Java-DDDDDD?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
 
 - [![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
-    Utilizado para o Backend da página.
+    Used for the Backend of the page.
     
     
-# 👩‍💻 Integrantes da Equipe 👨‍💻 <a name="integrantes"></a>
+# 👩‍💻 Team Members 👨‍💻 <a name="members"></a>
 
 [<img src="https://avatars.githubusercontent.com/u/68746678?v=4" width=115><br><sub> Leonardo Ribeiro <a href="https://github.com/Leo0256"></a><br><a href="https://www.linkedin.com/in/leonardo-gustavo-ribeiro-ba23831b6">Product Owner</a><br></sub>](https://github.com/Leo0256) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Leo0256 "Product Owner") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/leonardo-gustavo-ribeiro-ba23831b6 "LinkedIn") | [<img src="https://avatars.githubusercontent.com/u/73767256?v=4" width=115><br><sub> Rita Ferreira <br><a href="https://www.linkedin.com/in/rita-ferreira-894ba1200">Scrum Master</a><br></sub>](https://github.com/ritas2022)[![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/ritas2022 "Scrum Master") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/rita-ferreira-894ba1200 "LinkedIn") | [<img src="https://avatars.githubusercontent.com/u/72801105?v=4" width=115><br><sub> Sarah Santana <br><a href="https://www.linkedin.com/in/sarah-santana-843394200">Dev Team</a> <br></sub>](https://github.com/Sarah781) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Sarah781 "Dev Team") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/sarah-santana-843394200 "LinkedIn") | [<img src="https://avatars.githubusercontent.com/u/70578728?v=4" width=115 ><br><sub> Jonathan Gabriel<br><a href="https://www.linkedin.com/in/jonathan-gabriel-">Dev Team</a><br> </sub>](https://github.com/Jonathan-Assis) [![](https://img.shields.io/badge/%20-GitHub-black?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/Jonathan-Assis "Dev Team") [![](https://img.shields.io/badge/%20-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white&labelColor=0e76a8)](https://www.linkedin.com/in/jonathan-gabriel- "LinkedIn") | 
 | :---: | :---: | :---: | :---: | 
@@ -95,7 +95,7 @@ Nossa proposta consiste em desenvolver uma ferramenta de comparação de tarifas
 
 <hr>
 
-[⬆ Voltar ao topo](#topo)
+[⬆ Back to the top](#top)
 <div align=center>
     <img src='Referências/Imagens/FatecSJCLogo.png' width=200px alt="Logotipo da Fatec Professor Jessen Vidal">
     <img src='Referências/Imagens/NoxLogo.png' width=110px alt="Logotipo da equipe nóx">
