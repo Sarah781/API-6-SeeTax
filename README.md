@@ -37,18 +37,8 @@ Our proposal is to develop a tariff comparison tool that uses data provided by O
 # 📂 Documentation <a name="documentation"></a>
 
 ## Product Backlog <a name="backlog"></a>
-### Sprint 1
 
-<img src='Referências/Imagens/backlog_sprint (1).png' width=100% alt="sprint 1">
-
-### Sprint 2
-<img src='Referências/Imagens/backlog_sprint (2).png' width=100% alt="sprint 2">
-
-### Sprint 3
-<img src='Referências/Imagens/backlog_sprint (3).png' width=100% alt="sprint 3">
-
-### Sprint 4
-<img src='Referências/Imagens/backlog_sprint (4).png' width=100% alt="sprint 4">
+<img src='Referências/Imagens/Backlog.png' width=100% >
 
 <br>
 
