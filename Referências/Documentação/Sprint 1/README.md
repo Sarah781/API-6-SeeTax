@@ -2,19 +2,33 @@
 
 Entrega do dia 02/04/2023, tendo como base nos requerimentos da entrega:
 
+Visualizar Código - <a href=''>Backend</a> | <a href=''>Frontend</a>
+
 - ## 📋 Sprint Backlog
 
-A imagem abaixo descreve as Users Story do usuário entregues nesta sprint.
+Desmembramos as "historias" do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.Segue abaixo o orgonograma da 1º entrega.   <br/>
 
-<div align=center>
-    <img src='../Sprint 1/Imagens/Backlog S1.png'>
-</div>
+<img src="../Sprint 1/Imagens/Backlog S1.png"   alt="drawing" width=600>
+<br/>
+
+- ## ✒️ DEMOSTRAÇÃO PROTÓTIPO FIGMA.
+
+<a href=''>Visualizar apresentação no Figma </a> <br/>
+
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/157467fc-30d6-4fe2-ba12-b2087bb5f968"   alt="drawing" width=800>
+
+
+## DEMONSTRAÇÃO DA APLICAÇÃOS
+
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/8831459f-6315-4644-94b9-77ee68639fc6"   alt="drawing" width=800>
+
+<br />
 
 - ## 📊 Gráfico Burndown
 
 O gráfico abaixo representa o desempenho da equipe com base no período de 13/03/2023 à 02/04/2023 na realização das tarefas atribuídas para a entrega.
 
-![](https://user-images.githubusercontent.com/111800315/229386743-7cdad5cc-e676-4530-9925-50f72f7e9900.png)
+![](https://github.com/Sarah781/API-6-SeeTax/assets/111800315/4f4f8d9b-91d5-4d02-89b2-e7af01d6ab90)
 
 
 - ## 🏷️Projeto 
