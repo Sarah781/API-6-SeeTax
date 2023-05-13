@@ -24,7 +24,7 @@ Desmembramos as "historias" do Product Backlog em tarefas que representa uma uni
 
 - ## 📊 Gráfico Burndown
 
-O gráfico abaixo representa o desempenho da equipe com base no período de 13/03/2023 à 02/04/2023 na realização das tarefas atribuídas para a entrega.
+O gráfico abaixo representa o desempenho da equipe com base no período de 13/03/2023 à 02/04/2023,<br/> na realização das tarefas atribuídas para a entrega.
 
 <img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/4f4f8d9b-91d5-4d02-89b2-e7af01d6ab90S"   alt="drawing" width=600>
 
