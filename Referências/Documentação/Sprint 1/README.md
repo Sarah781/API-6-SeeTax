@@ -6,21 +6,19 @@ Visualizar Código - <a href=''>Backend</a> | <a href=''>Frontend</a>
 
 - ## 📋 Sprint Backlog
 
-Desmembramos as "historias" do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.Segue abaixo o orgonograma da 1º entrega.   <br/>
+Desmembramos as "historias" do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.<br/>Segue abaixo o orgonograma da 1º entrega.  <br/>
 
 <img src="../Sprint 1/Imagens/Backlog S1.png"   alt="drawing" width=600>
-<br/>
 
 - ## ✒️ DEMOSTRAÇÃO PROTÓTIPO FIGMA.
 
 <a href=''>Visualizar apresentação no Figma </a> <br/>
 
-<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/157467fc-30d6-4fe2-ba12-b2087bb5f968"   alt="drawing" width=800>
-
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/157467fc-30d6-4fe2-ba12-b2087bb5f968"   alt="drawing" width=600> <br/>
 
 ## DEMONSTRAÇÃO DA APLICAÇÃOS
 
-<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/8831459f-6315-4644-94b9-77ee68639fc6"   alt="drawing" width=800>
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/8831459f-6315-4644-94b9-77ee68639fc6"   alt="drawing" width=600>
 
 <br />
 
@@ -28,8 +26,7 @@ Desmembramos as "historias" do Product Backlog em tarefas que representa uma uni
 
 O gráfico abaixo representa o desempenho da equipe com base no período de 13/03/2023 à 02/04/2023 na realização das tarefas atribuídas para a entrega.
 
-![](https://github.com/Sarah781/API-6-SeeTax/assets/111800315/4f4f8d9b-91d5-4d02-89b2-e7af01d6ab90)
-
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/4f4f8d9b-91d5-4d02-89b2-e7af01d6ab90S"   alt="drawing" width=600>
 
 - ## 🏷️Projeto 
 
