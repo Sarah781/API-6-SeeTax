@@ -6,7 +6,7 @@ Visualizar Código - <a href=''>Backend</a> | <a href=''>Frontend</a>
 
 - ## 📋 Sprint Backlog
 
-A imagem abaixo descreve as Users Story do usuário entregues nesta sprint.
+Desmembramos as "historias" do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.<br/>Segue abaixo o orgonograma da 2º entrega.  <br/>
 
 <img src="../Sprint 2/Imagens/Backlog S2.png"   alt="drawing" width=600>
 
