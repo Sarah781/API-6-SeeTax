@@ -31,7 +31,7 @@ Since 2020, the Central Bank of Brazil has been working to establish a new form 
 Proposal for delivery: Rate Comparison Tool using Open Finance data.
 
 <p>
-Our proposal is to develop a tariff comparison tool that uses data provided by Open Finance. We will use the information provided by Open Finance to create a database that stores information about fees for financial services. We will develop a rankings dashboard: Bank with lowest, highest rates; Timeline of the average of a tariff with trend; Top 5 banks with lowest fees over a period; Develop a tariff price comparator: Products/Services, Banks, Currency, and also in the comparator, present the institution and offer the lowest cost for the selected Products/Services.
+Our proposal is to develop a tariff comparison tool that utilizes data provided by Open Finance. We will use the information provided by Open Finance to create a database that stores information about financial service rates. We will develop a classification panel that includes the following features: banks with the lowest and highest rates, a timeline showing the average tariff with a trend, the top 5 banks with the lowest rates within a given period. Additionally, we will create a tariff price comparator that includes the following criteria: products/services, banks, currency. In the comparator, we will display the institution and offer the lowest cost for the selected products/services.
 </p>
 
 # 📂 Documentation <a name="documentation"></a>
