@@ -12,7 +12,7 @@ Desmembramos as "historias" do Product Backlog em tarefas que representa uma uni
 
 - ## ✒️ DEMOSTRAÇÃO PROTÓTIPO FIGMA.
 
-<a href='https://www.figma.com/proto/2iz4Cag4lDaoAkmWGajaoD/SeeTax?node-id=302-988&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=302%3A988&show-proto-sidebar=1&hide-ui=1'>Visualizar apresentação no Figma </a> <br/>
+<a href=''>Visualizar apresentação no Figma </a> <br/>
 
 <img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/0a3bf449-8147-4330-8aad-a59d4b84ef80"   alt="drawing" width=600> <br/>
 
