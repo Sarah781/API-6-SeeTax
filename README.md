@@ -25,7 +25,7 @@ Project developed by students of the sixth semester of the `Systems Analysis and
 Monitoring system for services using Data Analysis with well-defined user profiles.
 
 ## ⏱️ Challenge <a name="challenge"></a>
-Since 2020, the Central Bank of Brazil has been working to establish a new form of intercommunication between banks, companies and customers; the platform named Open Finance Brasil. Traditionally, banks have always been huge vaults when it comes to storing their customers' data, and now there is a new paradigm that will generate infinite possibilities for integration and the creation of new products and services. As a way of analyzing the amounts charged for various services among Open Finance participants, we have the challenge of presenting, in an intuitive and fluid way, a price comparison tool using the data provided through Open Finance.
+Since 2020, the Central Bank of Brazil has been working to establish a new form of intercommunication among banks, companies, and clients, known as Open Finance Brazil. Traditionally, banks have always been huge vaults when it comes to storing their clients' data, but now there is a new paradigm that will generate endless possibilities for integration and the creation of new products and services. As a means of analyzing the fees charged for various services among participants in Open Finance, we face the challenge of presenting an intuitive and seamless price comparison tool based on the data made available by Open Finance.
 
 ## 📌Delivery Proposal <a name="proposal"></a>
 Proposal for delivery: Rate Comparison Tool using Open Finance data.
