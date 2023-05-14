@@ -8,7 +8,7 @@ Visualizar Código - <a href=''>Backend</a> | <a href=''>Frontend</a>
 
 Desmembramos as "historias" do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.<br/>Segue abaixo o orgonograma da 3º entrega.  <br/>
 
-<img src=""   alt="drawing" width=600>
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/df6f7e33-4ecf-47a3-a78e-e8b63936276a"   alt="drawing" width=600>
 
 - ## ✒️ DEMOSTRAÇÃO PROTÓTIPO FIGMA.
 
@@ -26,7 +26,7 @@ Desmembramos as "historias" do Product Backlog em tarefas que representa uma uni
 
 O gráfico abaixo representa o desempenho da equipe com base no período de 13/03/2023 à 02/04/2023,<br/> na realização das tarefas atribuídas para a entrega.
 
-<img src=""   alt="drawing" width=600>
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/74465ffe-c167-4b1c-a20e-5c6c7baba5ed"   alt="drawing" width=600>
 
 - ## 🏷️Projeto 
 
