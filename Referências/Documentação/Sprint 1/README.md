@@ -2,7 +2,7 @@
 
 Entrega do dia 02/04/2023, tendo como base nos requerimentos da entrega:
 
-Visualizar Código - <a href=''>Backend</a> | <a href=''>Frontend</a>
+Visualizar Código - <a href='https://github.com/Leo0256/API6-SeeTax-BackEnd.git'>Backend</a> | <a href='https://github.com/Jonathan-Assis/API6-SeeTax-FrontEnd.git'>Frontend</a>
 
 - ## 📋 Sprint Backlog
 
