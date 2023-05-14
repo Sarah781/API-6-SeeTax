@@ -28,7 +28,7 @@ Monitoring system for services using Data Analysis with well-defined user profil
 Since 2020, the Central Bank of Brazil has been working to establish a new form of intercommunication among banks, companies, and clients, known as Open Finance Brazil. Traditionally, banks have always been huge vaults when it comes to storing their clients' data, but now there is a new paradigm that will generate endless possibilities for integration and the creation of new products and services. As a means of analyzing the fees charged for various services among participants in Open Finance, we face the challenge of presenting an intuitive and seamless price comparison tool based on the data made available by Open Finance.
 
 ## 📌Delivery Proposal <a name="proposal"></a>
-Proposal for delivery: Rate Comparison Tool using Open Finance data.
+Proposal for Delivery: Open Finance Data-driven Rate Comparison Tool.
 
 <p>
 Our proposal is to develop a tariff comparison tool that utilizes data provided by Open Finance. We will use the information provided by Open Finance to create a database that stores information about financial service rates. We will develop a classification panel that includes the following features: banks with the lowest and highest rates, a timeline showing the average tariff with a trend, the top 5 banks with the lowest rates within a given period. Additionally, we will create a tariff price comparator that includes the following criteria: products/services, banks, currency. In the comparator, we will display the institution and offer the lowest cost for the selected products/services.
