@@ -18,17 +18,17 @@ Project developed by students of the sixth semester of the `Systems Analysis and
 ## 🎓 Disciplines Integrated into the Project <a name="disciplines"></a>
 - Artificial intelligence;
 - Special Topics in Informatics;
-- Team management;
+- Team management.
 
 
 ## 🎯 Objective <a name="objective"></a>
-System for monitoring services using Data Analysis with well-defined user profiles
+Monitoring system for services using Data Analysis with well-defined user profiles.
 
 ## ⏱️ Challenge <a name="challenge"></a>
 Since 2020, the Central Bank of Brazil has been working to establish a new form of intercommunication between banks, companies and customers; the platform named Open Finance Brasil. Traditionally, banks have always been huge vaults when it comes to storing their customers' data, and now there is a new paradigm that will generate infinite possibilities for integration and the creation of new products and services. As a way of analyzing the amounts charged for various services among Open Finance participants, we have the challenge of presenting, in an intuitive and fluid way, a price comparison tool using the data provided through Open Finance.
 
 ## 📌Delivery Proposal <a name="proposal"></a>
-Proposal for delivery: Rate Comparison Tool using Open Finance data
+Proposal for delivery: Rate Comparison Tool using Open Finance data.
 
 <p>
 Our proposal is to develop a tariff comparison tool that uses data provided by Open Finance. We will use the information provided by Open Finance to create a database that stores information about fees for financial services. We will develop a rankings dashboard: Bank with lowest, highest rates; Timeline of the average of a tariff with trend; Top 5 banks with lowest fees over a period; Develop a tariff price comparator: Products/Services, Banks, Currency, and also in the comparator, present the institution and offer the lowest cost for the selected Products/Services.
@@ -52,11 +52,11 @@ Our proposal is to develop a tariff comparison tool that uses data provided by O
 
 - [X] [SPRINT 2 - 03/04/2023 a 23/04/2023; - ![](https://img.shields.io/badge/📝%20Acessar%20Documentação%20da%20Entrega-7917FF?style=flat-square)](Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/)
 
-- [ ] SPRINT 3 - 24/04/2023 a 14/05/2023
+- [ ] SPRINT 3 - 24/04/2023 a 14/05/2023;
 
-- [ ] SPRINT 4 - 15/05/2023 a 04/06/2023
+- [ ] SPRINT 4 - 15/05/2023 a 04/06/2023;
 
-- [ ] Solutions Fair and Final Presentation - 13/06/2023 e 14/06/2023
+- [ ] Solutions Fair and Final Presentation - 13/06/2023 e 14/06/2023.
 
 # 💻 Technologies <a name="technologies"></a>
 
