@@ -14,7 +14,7 @@ Desmembramos as "historias" do Product Backlog em tarefas que representa uma uni
 
 <a href='https://www.figma.com/proto/2iz4Cag4lDaoAkmWGajaoD/SeeTax?type=design&node-id=357-178&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=357%3A178'>Visualizar apresentação no Figma </a> <br/>
 
-<img src=""   alt="drawing" width=600> <br/>
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/6ca3b85d-0a28-4266-abad-ac45ff252953"   alt="drawing" width=600> <br/>
 
 ## DEMONSTRAÇÃO DA APLICAÇÃO
 
