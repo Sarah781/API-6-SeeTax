@@ -16,11 +16,6 @@ Desmembramos as "historias" do Product Backlog em tarefas que representa uma uni
 
 <img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/6ca3b85d-0a28-4266-abad-ac45ff252953"   alt="drawing" width=600> <br/>
 
-## DEMONSTRAÇÃO DA APLICAÇÃO
-
-<img src=""   alt="drawing" width=600>
-
-<br />
 
 - ## 📊 Gráfico Burndown
 
