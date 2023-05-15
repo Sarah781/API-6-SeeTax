@@ -77,7 +77,8 @@ Our proposal is to develop a tariff comparison tool that utilizes data provided 
 
     Used for the Backend of the page.
     
-- [![](https://img.shields.io/badge/%20-MySQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com/)  
+- [![](https://img.shields.io/badge/%20-MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+
     Used for the bank.
     
     
