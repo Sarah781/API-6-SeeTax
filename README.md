@@ -52,7 +52,10 @@ Our proposal is to develop a tariff comparison tool that utilizes data provided 
 
 - [X] [SPRINT 2 - 03/04/2023 a 23/04/2023; - ![](https://img.shields.io/badge/📝%20Acessar%20Documentação%20da%20Entrega-7917FF?style=flat-square)](Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/)
 
-- [X] [SPRINT 3 - 24/04/2023 a 14/05/2023;- ![](https://github.com/Sarah781/API-6-SeeTax/tree/main/Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%203)](Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%202/)
+
+- [X] [SPRINT 2 - 24/04/2023 a 14/05/2023; - ![](https://img.shields.io/badge/📝%20Acessar%20Documentação%20da%20Entrega-7917FF?style=flat-square)](https://github.com/Sarah781/API-6-SeeTax/tree/main/Refer%C3%AAncias/Documenta%C3%A7%C3%A3o/Sprint%203)
+
+
 
 
 - [ ] SPRINT 4 - 15/05/2023 a 04/06/2023;
