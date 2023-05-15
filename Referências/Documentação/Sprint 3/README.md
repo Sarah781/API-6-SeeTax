@@ -29,7 +29,7 @@ O gráfico abaixo representa o desempenho da equipe com base no período de 24/0
 <img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/74465ffe-c167-4b1c-a20e-5c6c7baba5ed"   alt="drawing" width=600>
 
 - ## 🏷️Projeto 
-- 
+
 [![](https://img.shields.io/badge/GitHub%20Sprint%203%20Version-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarah781/API-6-SeeTax/releases/tag/v1.2.0)
 
 <hr>
