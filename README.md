@@ -71,7 +71,7 @@ Our proposal is to develop a tariff comparison tool that utilizes data provided 
     Used for the Frontend of the page.
     
     
-- [![](https://img.shields.io/badge/Java-DDDDDD?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
+- [![](https://img.shields.io/badge/Java-cf2e2e?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
 
 - [![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
