@@ -2,31 +2,31 @@
 
 Entrega do dia 04/06/2023, tendo como base nos requerimentos da entrega:
 
-- ## 📋 Sprint Backlog
+Visualizar Código - <a href=''>Backend</a> | <a href=''>Frontend</a>
 
-A imagem abaixo descreve as Users Story do usuário entregues nesta sprint.
+- ## 📋 Sprint Backlogs
 
-<div align=center>
-    <img src='../Sprint 4/Imagens/Backlog S4.png'>
-</div>
+Desmembramos as "historias" do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.<br/>Segue abaixo o orgonograma da 4º entrega.  <br/>
+
+<img src=""   alt="drawing" width=600>
+
+- ## ✒️ DEMOSTRAÇÃO PROTÓTIPO FIGMA.
+
+<a href=''>Visualizar apresentação no Figma </a> <br/>
+
+<img src=""   alt="drawing" width=600> <br/>
+
+## DEMONSTRAÇÃO DA APLICAÇÃO
+
+<img src=""   alt="drawing" width=600>
+
+<br />
 
 - ## 📊 Gráfico Burndown
 
-O gráfico abaixo representa o desempenho da equipe com base no período de 15/05/2023 à 04/06/2023 na realização das tarefas atribuídas para a entrega.
+O gráfico abaixo representa o desempenho da equipe com base no período de 15/05/2023 à 04/06/2023,<br/> na realização das tarefas atribuídas para a entrega.
 
-![]()
-
-- ## ✒️ Wireframe
-
-<a href="">Link do Play do protótipo Figma</a>
-
-As imagens abaixo são o protótipo das telas realizadas para a entrega desta sprint.
-<div align='center'>
-    <img src=''>
-    <img src=''>
-</div>
-
-
+<img src=""   alt="drawing" width=600>
 
 - ## 🏷️Projeto 
 
