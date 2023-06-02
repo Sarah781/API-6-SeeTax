@@ -91,8 +91,17 @@ Our proposal is to develop a tariff comparison tool that utilizes data provided 
 
 <hr>
 
+<div align=center>
+    <img src='Referências/Imagens/img.jpg'  alt="Time">
+</div>
+
+<hr>
+
+<p>
+
 [⬆ Back to the top](#top)
 <div align=center>
     <img src='Referências/Imagens/FatecSJCLogo.png' width=200px alt="Logotipo da Fatec Professor Jessen Vidal">
     <img src='Referências/Imagens/NoxLogo.png' width=110px alt="Logotipo da equipe nóx">
 <div>
+</p>
