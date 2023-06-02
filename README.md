@@ -92,7 +92,7 @@ Our proposal is to develop a tariff comparison tool that utilizes data provided 
 <hr>
 
 <div align=center>
-    <img src='Referências/Imagens/img.jpg'  alt="Time">
+    <img src='Referências/Imagens/IMGG.jpg'  alt="Time">
 </div>
 
 <hr>
