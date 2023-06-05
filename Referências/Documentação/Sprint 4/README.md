@@ -2,7 +2,7 @@
 
 Entrega do dia 04/06/2023, tendo como base nos requerimentos da entrega:
 
-Visualizar Código - <a href='/Servidor'>Backend</a> | <a href='/Interface'>Frontend</a>
+Visualizar Código - <a href='https://github.com/Leo0256/API6-SeeTax-BackEnd/tree/f2030f432d8efd71d7e8b9475e549040dc5763c1'>Backend</a> | <a href='https://github.com/Jonathan-Assis/API6-SeeTax-FrontEnd/tree/539657f999c9679ab70d1120e0f516ee9b1b5844'>Frontend</a>
 
 - ## 📋 Sprint Backlogs
 
@@ -18,7 +18,7 @@ Desmembramos as "historias" do Product Backlog em tarefas que representa uma uni
 
 ## DEMONSTRAÇÃO DA APLICAÇÃO
 
-<img src=""   alt="drawing" width=600>
+<img src="https://github.com/Sarah781/API-6-SeeTax/assets/111800315/74699c3d-da6a-4379-9790-728c8610e12b"   alt="drawing" width=600>
 
 <br />
 
